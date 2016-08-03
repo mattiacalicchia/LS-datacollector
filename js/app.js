@@ -43,6 +43,7 @@ function beep() {
 
 
 function downloadInnerTxT(filename, elId, mimeType) {
+  Check();
     var elHtml = document.getElementById(elId).innerText;
     var link = document.createElement('a');
     mimeType = mimeType || 'text/plain';
