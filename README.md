@@ -29,7 +29,7 @@ Click on the trash icon to delete all data.
 * Change your quantity
 * Delete just a barcode
 
-Thanks to:
+#Thanks to:
 * http://getbootstrap.com/
 * https://sugarjs.com/
 * https://www.talater.com/upup/
