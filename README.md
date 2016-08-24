@@ -1,7 +1,9 @@
-
+#Local Storage Data Collector
 >It's a simple data collector without files or SQL Database, infact LSDC use your local storage.
 
 Just scan your codes with an USB barcode scanner, check it and save it.
+
+demo: https://mattiacalicchia.com/lsdc
 
 # How use it on my business?
 Just need a few things:
@@ -24,6 +26,11 @@ Click the floppy icon to save it on a file txt called: scanned.txt
 Click on the trash icon to delete all data.
 
 #Future features?
-* Offline support
 * Change your quantity
 * Delete just a barcode
+
+Thanks to:
+*http://getbootstrap.com/
+*https://sugarjs.com/
+*https://www.talater.com/upup/
+*https://jquery.com/
