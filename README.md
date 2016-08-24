@@ -13,7 +13,7 @@ Just need a few things:
 
 #How does it works?
 * Connect the barcodescanner with your device
-* Open Google Chrome and surf the website app mattiacalicchia.com/lsdc
+* Open Google Chrome and surf the website app https://mattiacalicchia.com/lsdc
 * Scan your barcodes
 
 #Can i see my codes?
