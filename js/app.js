@@ -26,6 +26,7 @@
 * ---------------------------- */
 
 window.onload = function() {
+
   document.getElementById("input-code").focus();
 
 Sugar.extend();
@@ -43,7 +44,7 @@ function beep() {
 
 
 function downloadInnerTxT(filename, elId, mimeType) {
-  Check();
+	Check();
     var elHtml = document.getElementById(elId).innerText;
     var link = document.createElement('a');
     mimeType = mimeType || 'text/plain';
