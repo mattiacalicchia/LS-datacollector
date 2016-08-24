@@ -10,6 +10,7 @@ Just need a few things:
 * Bluetooth or Wired Barcode Scanner
 * Android Device with Google Chrome (need OTG support if use wired scanner)
 * Internet connection
+* SSL required to work on offline mode
 
 #How does it works?
 * Connect the barcodescanner with your device
