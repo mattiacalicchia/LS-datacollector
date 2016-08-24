@@ -30,7 +30,7 @@ Click on the trash icon to delete all data.
 * Delete just a barcode
 
 Thanks to:
-*http://getbootstrap.com/
-*https://sugarjs.com/
-*https://www.talater.com/upup/
-*https://jquery.com/
+* http://getbootstrap.com/
+* https://sugarjs.com/
+* https://www.talater.com/upup/
+* https://jquery.com/
