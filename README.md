@@ -12,25 +12,25 @@ Just need a few things:
 * Internet connection
 * SSL required to work on offline mode
 
-#How does it works?
+# How does it works?
 * Connect the barcodescanner with your device
 * Open Google Chrome and surf the website app https://mattiacalicchia.com/lsdc
 * Scan your barcodes
 
-#Can i see my codes?
+# Can i see my codes?
 Sure. Just click on the "check" icon to show your stock.
 
-#Save into a file?
+# Save into a file?
 Click the floppy icon to save it on a file txt called: scanned.txt
 
-#Reset and clean your data
+# Reset and clean your data
 Click on the trash icon to delete all data.
 
-#Future features?
+# Future features?
 * Change your quantity
 * Delete just a barcode
 
-#Thanks to:
+# Thanks to:
 * http://getbootstrap.com/
 * https://sugarjs.com/
 * https://www.talater.com/upup/
