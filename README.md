@@ -1,9 +1,9 @@
-#Local Storage Data Collector
+# Local Storage Data Collector
 >It's a simple data collector without files or SQL Database, infact LSDC use your local storage.
 
 Just scan your codes with an USB barcode scanner, check it and save it.
 
-demo: https://mattiacalicchia.com/lsdc
+demo: http://mattiacalicchia.com/lsdc/index.html
 
 # How use it on my business?
 Just need a few things:
